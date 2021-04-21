@@ -9,7 +9,7 @@ The image above is a simple line graph that counts the number of successful, fai
 ## Outcomes based on Goals 
 ![Outcomes based on Goals](https://github.com/mccoycory/Kickstarter/blob/main/Resources/Outcomes%20based%20on%20goal.png)
 The image above shows the percent of successful outcomes vs the goal dollar amount. The most successful kickerstarters have a target goal of less than 1000 dollars.
-# Challenges 
+## Challenges 
 The most challenging part of this data set was using the count if on the raw data page. I did not know that enough though you have filtered the data for a visual view, if you count all columns, it will contain the whole data set. This was fixed by using the countif formula and using "plays" as a critera. 
 # Results 
 Based on the two results found from the graphs. The kickstarter manager should launch the kickstarter in May and have a target goal of less than 1000 dollars. The main limitation of the data set is its age. 2017 is the most recent year and there have been many changes to life since then like a pandemic... Most recent data would be helpful. There also is no age demographic on who is donating money and how they are donating (online, check, events, etc.) It would be nice to have a target market. 
